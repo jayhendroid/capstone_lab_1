@@ -22,5 +22,3 @@ if birth_month.lower() == 'august':
     print('Happy birthday month!!!')
 else:
     print('it is not your birthday month')
-
-
