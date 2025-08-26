@@ -8,7 +8,6 @@ num_classes = int(input('How many classes do you have? '))
 
 classes = []
 
-
 for i in range(num_classes):
     class_name = input(f'Enter the name of class #{i + 1}: ')
     classes.append(class_name)

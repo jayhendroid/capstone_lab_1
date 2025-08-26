@@ -14,7 +14,6 @@ birth_month = input('Please enter your birth month: ')
 
 print(f'Hello {name}')
 
-
 letters_in_name = len(name)
 
 print(f'You have + {letters_in_name} + letters in your name')
